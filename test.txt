@@ -1,2 +1,1 @@
-This is a test.
-Something
+This is a sample file
